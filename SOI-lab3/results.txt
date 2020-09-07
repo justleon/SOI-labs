@@ -1,0 +1,200 @@
+(23:20:30) Producer 0 added AAB to queue 0.
+(23:20:33) Producer 0 added ABC to queue 0.
+(23:20:36) Producer 0 added CBC to queue 0.
+(23:20:39) Producer 0 added BAB to queue 0.
+(23:20:42) Producer 0 added BBC to queue 0.
+(23:20:45) Producer 0 added ACC to queue 0.
+(23:20:48) Producer 0 added ABC to queue 0.
+(23:20:51) Producer 0 added AAC to queue 0.
+(23:20:54) Producer 0 added ABA to queue 0.
+(23:20:57) Producer 0 added CBA to queue 0.
+(23:21:00) Producer 0 added CBA to queue 0.
+(23:21:03) Producer 0 added CCB to queue 0.
+(23:21:06) Producer 0 added BCA to queue 0.
+(23:21:09) Producer 0 added BAA to queue 0.
+(23:21:12) Producer 0 added ACC to queue 0.
+(23:21:15) Producer 0 added CAB to queue 0.
+(23:21:18) Producer 0 added CAC to queue 0.
+(23:21:21) Producer 0 added BBB to queue 0.
+(23:21:24) Producer 0 added BBC to queue 0.
+(23:21:27) Producer 0 added ACA to queue 0.
+(23:20:31) Producer 1 added BCA to queue 1.
+(23:20:34) Producer 1 added BCB to queue 1.
+(23:20:37) Producer 1 added CCA to queue 1.
+(23:20:40) Producer 1 added ABB to queue 1.
+(23:20:43) Producer 1 added CBB to queue 1.
+(23:20:46) Producer 1 added ABA to queue 1.
+(23:20:49) Producer 1 added CCB to queue 1.
+(23:20:52) Producer 1 added BBA to queue 1.
+(23:20:55) Producer 1 added BCC to queue 1.
+(23:20:58) Producer 1 added ACC to queue 1.
+(23:21:01) Producer 1 added ABA to queue 1.
+(23:21:04) Producer 1 added BCA to queue 1.
+(23:21:07) Producer 1 added CCC to queue 1.
+(23:21:10) Producer 1 added AAB to queue 1.
+(23:21:13) Producer 1 added CCA to queue 1.
+(23:21:16) Producer 1 added BCA to queue 1.
+(23:21:19) Producer 1 added CAC to queue 1.
+(23:21:22) Producer 1 added ABB to queue 1.
+(23:21:25) Producer 1 added CAA to queue 1.
+(23:21:28) Producer 1 added BBB to queue 1.
+(23:20:31) Producer 2 added BBB to queue 2.
+(23:20:34) Producer 2 added AAC to queue 2.
+(23:20:37) Producer 2 added CAB to queue 2.
+(23:20:40) Producer 2 added ABA to queue 2.
+(23:20:43) Producer 2 added AAA to queue 2.
+(23:20:46) Producer 2 added CCA to queue 2.
+(23:20:49) Producer 2 added BAC to queue 2.
+(23:20:52) Producer 2 added AAC to queue 2.
+(23:20:55) Producer 2 added CBB to queue 2.
+(23:20:58) Producer 2 added CBC to queue 2.
+(23:21:01) Producer 2 added CCB to queue 2.
+(23:21:04) Producer 2 added BBB to queue 2.
+(23:21:07) Producer 2 added AAA to queue 2.
+(23:21:10) Producer 2 added CBC to queue 2.
+(23:21:13) Producer 2 added CCC to queue 2.
+(23:21:16) Producer 2 added BCC to queue 2.
+(23:21:19) Producer 2 added CBA to queue 2.
+(23:21:22) Producer 2 added BBA to queue 2.
+(23:21:25) Producer 2 added ABC to queue 2.
+(23:21:28) Producer 2 added ABB to queue 2.
+(23:20:33) Super producer added ABA to queue 0
+(23:20:36) Super producer added CAB to queue 2
+(23:20:39) Super producer added CAC to queue 1
+(23:20:42) Super producer added AAC to queue 0
+(23:20:45) Super producer added ABC to queue 0
+(23:20:48) Super producer added ACA to queue 0
+(23:20:51) Super producer added ACA to queue 0
+(23:20:54) Super producer added ABC to queue 0
+(23:20:57) Super producer added ACB to queue 1
+(23:21:00) Super producer added AAB to queue 2
+(23:21:03) Super producer added AAA to queue 0
+(23:21:06) Super producer added AAC to queue 1
+(23:21:09) Super producer added CBC to queue 1
+(23:21:12) Super producer added BCA to queue 0
+(23:21:15) Super producer added CBA to queue 1
+(23:21:18) Super producer added ACB to queue 2
+(23:21:21) Super producer added CAA to queue 0
+(23:21:24) Super producer added ABB to queue 0
+(23:21:27) Super producer added CCB to queue 1
+(23:21:30) Super producer added AAB to queue 0
+(23:20:32) Consumed BBB from 0.
+(23:20:32) Consumer 0 added BB to queue 1
+(23:20:35) Consumed ABA from 0.
+(23:20:36) Consumer 0 added BA to queue 0
+(23:20:39) Consumed AAC from 0.
+(23:20:39) Consumer 0 added AC to queue 0
+(23:20:42) Consumed AC from 0.
+(23:20:43) Consumer 0 added C to queue 0
+(23:20:46) Consumed ABC from 0.
+(23:20:46) Consumer 0 added BC to queue 0
+(23:20:49) Consumed ACA from 0.
+(23:20:50) Consumer 0 added CA to queue 0
+(23:20:53) Consumed ACA from 0.
+(23:20:53) Consumer 0 added CA to queue 0
+(23:20:56) Consumed ABC from 0.
+(23:20:57) Consumer 0 added BC to queue 0
+(23:21:00) Consumed AAC from 0.
+(23:21:00) Consumer 0 added AC to queue 0
+(23:21:03) Consumed AAA from 0.
+(23:21:04) Consumer 0 added AA to queue 0
+(23:21:07) Consumed CAB from 0.
+(23:21:07) Consumer 0 added AB to queue 2
+(23:21:10) Consumed AC from 0.
+(23:21:11) Consumer 0 added C to queue 0
+(23:21:14) Consumed BCA from 0.
+(23:21:14) Consumer 0 added CA to queue 1
+(23:21:17) Consumed ABA from 0.
+(23:21:18) Consumer 0 added BA to queue 0
+(23:21:21) Consumed AB from 0.
+(23:21:21) Consumer 0 added B to queue 0
+(23:21:24) Consumed ABB from 0.
+(23:21:25) Consumer 0 added BB to queue 0
+(23:21:28) Consumed CAA from 0.
+(23:21:28) Consumer 0 added AA to queue 2
+(23:21:31) Consumed AAB from 0.
+(23:21:32) Consumer 0 added AB to queue 0
+(23:21:35) Consumed AAA from 0.
+(23:21:35) Consumer 0 added AA to queue 0
+(23:21:38) Consumed AB from 0.
+(23:21:39) Consumer 0 added B to queue 0
+(23:20:32) Consumed BBB from 1.
+(23:20:33) Consumer 1 added BB to queue 1
+(23:20:36) Consumed BB from 1.
+(23:20:36) Consumer 1 added B to queue 1
+(23:20:39) Consumed BB from 1.
+(23:20:40) Consumer 1 added B to queue 1
+(23:20:43) Consumed CAC from 1.
+(23:20:43) Consumer 1 added AC to queue 2
+(23:20:46) Consumed BB from 1.
+(23:20:47) Consumer 1 added B to queue 1
+(23:20:50) Consumed AAC from 1.
+(23:20:50) Consumer 1 added AC to queue 0
+(23:20:53) Consumed AC from 1.
+(23:20:54) Consumer 1 added C to queue 0
+(23:20:57) Consumed CAB from 1.
+(23:20:57) Consumer 1 added AB to queue 2
+(23:21:00) Consumed ACB from 1.
+(23:21:01) Consumer 1 added CB to queue 0
+(23:21:04) Consumed ABA from 1.
+(23:21:04) Consumer 1 added BA to queue 0
+(23:21:07) Consumed AAC from 1.
+(23:21:08) Consumer 1 added AC to queue 0
+(23:21:11) Consumed CBC from 1.
+(23:21:11) Consumer 1 added BC to queue 2
+(23:21:14) Consumed AB from 1.
+(23:21:15) Consumer 1 added B to queue 0
+(23:21:18) Consumed CBA from 1.
+(23:21:18) Consumer 1 added BA to queue 2
+(23:21:21) Consumed AAA from 1.
+(23:21:22) Consumer 1 added AA to queue 0
+(23:21:25) Consumed CCA from 1.
+(23:21:25) Consumer 1 added CA to queue 2
+(23:21:28) Consumed CCB from 1.
+(23:21:29) Consumer 1 added CB to queue 2
+(23:21:32) Consumed BA from 1.
+(23:21:32) Consumer 1 added A to queue 1
+(23:21:35) Consumed BAC from 1.
+(23:21:36) Consumer 1 added AC to queue 1
+(23:21:39) Consumed AAC from 1.
+(23:21:39) Consumer 1 added AC to queue 0
+(23:20:33) Consumed BBB from 2.
+(23:20:33) Consumer 2 added BB to queue 1
+(23:20:36) Consumed AAC from 2.
+(23:20:37) Consumer 2 added AC to queue 0
+(23:20:40) Consumed CAB from 2.
+(23:20:40) Consumer 2 added AB to queue 2
+(23:20:43) Consumed CAB from 2.
+(23:20:44) Consumer 2 added AB to queue 2
+(23:20:47) Consumed ABA from 2.
+(23:20:47) Consumer 2 added BA to queue 0
+(23:20:50) Consumed AB from 2.
+(23:20:51) Consumer 2 added B to queue 0
+(23:20:54) Consumed AAA from 2.
+(23:20:54) Consumer 2 added AA to queue 0
+(23:20:57) Consumed AB from 2.
+(23:20:58) Consumer 2 added B to queue 0
+(23:21:01) Consumed AAB from 2.
+(23:21:01) Consumer 2 added AB to queue 0
+(23:21:04) Consumed AB from 2.
+(23:21:05) Consumer 2 added B to queue 0
+(23:21:08) Consumed CCA from 2.
+(23:21:08) Consumer 2 added CA to queue 2
+(23:21:11) Consumed BAC from 2.
+(23:21:12) Consumer 2 added AC to queue 1
+(23:21:15) Consumed AAC from 2.
+(23:21:15) Consumer 2 added AC to queue 0
+(23:21:18) Consumed ACB from 2.
+(23:21:19) Consumer 2 added CB to queue 0
+(23:21:22) Consumed CBB from 2.
+(23:21:22) Consumer 2 added BB to queue 2
+(23:21:25) Consumed B from 2.
+(23:21:26) Consumer 2 added  to queue 1
+(23:21:29) Consumed CBC from 2.
+(23:21:29) Consumer 2 added BC to queue 2
+(23:21:32) Consumed CCB from 2.
+(23:21:33) Consumer 2 added CB to queue 2
+(23:21:36) Consumed BBB from 2.
+(23:21:36) Consumer 2 added BB to queue 1
+(23:21:39) Consumed AAA from 2.
+(23:21:40) Consumer 2 added AA to queue 0
